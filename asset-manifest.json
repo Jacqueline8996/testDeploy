@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/testDeploy/static/css/main.6b820ee2.chunk.css",
+    "main.js": "/testDeploy/static/js/main.9ddc4c18.chunk.js",
+    "main.js.map": "/testDeploy/static/js/main.9ddc4c18.chunk.js.map",
+    "runtime-main.js": "/testDeploy/static/js/runtime-main.6892f68a.js",
+    "runtime-main.js.map": "/testDeploy/static/js/runtime-main.6892f68a.js.map",
+    "static/css/2.818011ed.chunk.css": "/testDeploy/static/css/2.818011ed.chunk.css",
+    "static/js/2.94a27777.chunk.js": "/testDeploy/static/js/2.94a27777.chunk.js",
+    "static/js/2.94a27777.chunk.js.map": "/testDeploy/static/js/2.94a27777.chunk.js.map",
+    "index.html": "/testDeploy/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/testDeploy/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6b820ee2.chunk.css.map": "/testDeploy/static/css/main.6b820ee2.chunk.css.map",
+    "static/js/2.94a27777.chunk.js.LICENSE.txt": "/testDeploy/static/js/2.94a27777.chunk.js.LICENSE.txt",
+    "static/media/DataFlow.92c2fe05.jpg": "/testDeploy/static/media/DataFlow.92c2fe05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6892f68a.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.94a27777.chunk.js",
+    "static/css/main.6b820ee2.chunk.css",
+    "static/js/main.9ddc4c18.chunk.js"
+  ]
+}
